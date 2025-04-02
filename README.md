@@ -3,5 +3,5 @@ Sistema de monitoramento de macronutrientes essenciais para evolução física d
 
 # Documentação RFC -> Em andamento.
 
-[Baixar o documento RFC](https://1drv.ms/w/s!Avy6IG1xuQ5hrqxbcL13ihk-HPDHVg?e=UQKJHQ)
+[Acessar documento RFC](https://1drv.ms/w/s!Avy6IG1xuQ5hrqxbcL13ihk-HPDHVg?e=fc82Qf)
 
